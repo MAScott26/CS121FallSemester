@@ -1,0 +1,2 @@
+<User Name>          <Password>           <Score>           <Player>             <Winning %>         aaa                  ssss                 1      Bob                            50.00bbb                  eee                  1      Mar                            50.00
+ppp                  123                  99     POP                            99.00
